@@ -1,4 +1,4 @@
-### <div align="center"> ✨ Hello I'm YeHwan, I am a researcher working at TmaxAI ✨ </div>  
+### ✨ Hello I'm YeHwan, I am a researcher working at TmaxAI
 
 <br/>  
 
