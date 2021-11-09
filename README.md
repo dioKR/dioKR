@@ -1,5 +1,5 @@
-## ✨ Hello I'm YeHwan
-### I am a developer working at TmaxAI
+✨ Hello I'm YeHwan
+I am a developer working at TmaxAI
 
 <br/>
 
