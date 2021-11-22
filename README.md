@@ -5,6 +5,16 @@ I am a developer working at TmaxAI
 <br/>
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=OhYeHwan&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=OhYeHwan&theme=radical&show_icons=true&count_private=true&hide_border=true"/>
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OhYeHwan&hide=Makefile,Cmake&layout=compact&theme=radical"/>
+</a>
+
 
 <br/> 
+
+
