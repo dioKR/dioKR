@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2&height=200&section=header&text=(&nbsp;(x)&nbsp;=>&nbsp;{&nbsp;return&nbsp;행동(x)&nbsp;}&nbsp;)(&nbsp;생각&nbsp;);&fontSize=40&animation=blink&fontAlignY=40)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=9&height=200&section=header&text=(&nbsp;(x)&nbsp;=>&nbsp;{&nbsp;return&nbsp;행동(x)&nbsp;}&nbsp;)(&nbsp;생각&nbsp;);&fontSize=40&animation=blink&fontAlignY=40)
 
 <h3 align="center"> 👋🏻 Hello I'm YeHwan </h3>
 
@@ -34,5 +34,5 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OhYeHwan&hide=Makefile,Cmake&theme=radical"/>
 </a>
    
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2&height=200&section=footer&fontSize=80&animation=blink)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=9&height=200&section=footer&fontSize=80&animation=blink)
 
