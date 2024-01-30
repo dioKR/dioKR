@@ -35,11 +35,11 @@
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=OhYeHwan&theme=radical&show_icons=true&count_private=true&hide_border=true"/>
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=dioKR&theme=radical&show_icons=true&count_private=true&hide_border=true"/>
 </a>
 &nbsp;&nbsp;&nbsp;
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OhYeHwan&hide=Makefile,Cmake&theme=radical"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dioKR&hide=Makefile,Cmake&theme=radical"/>
 </a>
    
 <!-- ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=9&height=200&section=footer&fontSize=80&animation=blink) -->
