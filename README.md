@@ -22,9 +22,11 @@
    <img alt="Mobx" src ="https://img.shields.io/badge/Mobx-FF9955.svg?&style=flat&logo=Mobx&logoColor=white"/>
 <p>
 <p align="center">
+   <img alt="Spring" src ="https://img.shields.io/badge/Spring-6DB33F.svg?&style=flat&logo=Spring&logoColor=white"/>
+   <img alt="SpringBoot" src ="https://img.shields.io/badge/SpringBoot-6DB33F.svg?&style=flat&logo=Springboot&logoColor=white"/>
    <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=flat&logo=Python&logoColor=white"/>
-   <img alt="Django" src ="https://img.shields.io/badge/Django-092E20.svg?&style=flat&logo=Django&logoColor=white"/>
    <img alt="MySQL" src ="https://img.shields.io/badge/MySQL-4479A1.svg?&style=flat&logo=MySQL&logoColor=white"/>
+   <img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-4169E1.svg?&style=flat&logo=PostgreSQL&logoColor=white"/>
 </p>
    
    
