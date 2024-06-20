@@ -50,7 +50,7 @@
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-   <img align="center" src="github-readme-stats-o0h6gfi61-scotts-projects-6fae5686.vercel.app/api?username=dioKR&theme=radical&show_icons=true&count_private=true&hide_border=true"/>
+   <img align="center" src="https://github-readme-stats-nine-sepia-11.vercel.app/api?username=dioKR&theme=radical&show_icons=true&count_private=true&hide_border=true"/>
 </a>
 &nbsp;&nbsp;&nbsp;
 <a href="https://github.com/anuraghazra/github-readme-stats">
