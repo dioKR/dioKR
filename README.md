@@ -52,7 +52,7 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
    <img align="center" src="https://github-readme-stats-nine-sepia-11.vercel.app/api?username=dioKR&theme=radical&show_icons=true&count_private=true&hide_border=true"/>
 </a>
-
+&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats-nine-sepia-11.vercel.app/api/top-langs/?username=dioKR&hide=Makefile,Cmake&theme=radical"/>
 </a>
