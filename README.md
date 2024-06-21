@@ -54,7 +54,7 @@
 </a>
 &nbsp;&nbsp;&nbsp;
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats-nine-sepia-11.vercel.app/api/top-langs/?username=dioKR&hide=Makefile,Cmake,C++&theme=radical"/>
+  <img align="center" src="https://github-readme-stats-nine-sepia-11.vercel.app/api/top-langs/?username=dioKR&hide=Makefile,Cmake,C%2B%2B&theme=radical"/>
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
