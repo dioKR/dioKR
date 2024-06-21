@@ -54,8 +54,9 @@
 </a>
 &nbsp;&nbsp;&nbsp;
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats-nine-sepia-11.vercel.app/api/top-langs/?username=dioKR&hide=C++,CommonLisp,Makefile,Cmake&theme=radical"/>
+  <img align="center" src="https://github-readme-stats-nine-sepia-11.vercel.app/api/top-langs/?username=dioKR&theme=radical"/>
 </a>
-   
+
+<img src="https://github-readme-stats-nine-sepia-11.vercel.app/api/wakatime?username=dioKR"/>
 <!-- ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=9&height=200&section=footer&fontSize=80&animation=blink) -->
 
