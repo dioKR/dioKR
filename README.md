@@ -46,9 +46,8 @@
    
 <br>
 
+<!--
 ## ⭐️ Github Stats  
-
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
    <img align="center" src="https://github-readme-stats-nine-sepia-11.vercel.app/api?username=dioKR&theme=radical&show_icons=true&count_private=true&hide_border=true"/>
 </a>
@@ -56,5 +55,6 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats-nine-sepia-11.vercel.app/api/top-langs/?username=dioKR&hide=Makefile,Cmake,C%2B%2B,Common%20LISP&theme=radical"/>
 </a>
+-->
 <!-- ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=9&height=200&section=footer&fontSize=80&animation=blink) -->
 
