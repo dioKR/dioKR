@@ -2,7 +2,8 @@
 
 <h3 align="center"> 👋🏻 Hello I'm YeHwan </h3>
 <pre align="center"> 2020.12.28 ~ 2024.01.26 Tmax AI </pre>
-<pre align="center"> 2024.01.29 ~            Okestro </pre>
+<pre align="center"> 2024.01.29 ~ 2024.08.09 Okestro </pre>
+<pre align="center"> 2024.08.12 ~    ing     ButfitSeoul </pre>
 
 <br>
 
