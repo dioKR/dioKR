@@ -1,9 +1,10 @@
 <!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=9&height=200&section=header&text=(&nbsp;(x)&nbsp;=>&nbsp;{&nbsp;return&nbsp;행동(x)&nbsp;}&nbsp;)(&nbsp;생각&nbsp;);&fontSize=40&animation=blink&fontAlignY=40) -->
 
 <h3 align="center"> 👋🏻 Hello I'm YeHwan </h3>
-<pre align="center"> 2020.12.28 ~ 2024.01.26 Tmax AI </pre>
-<pre align="center"> 2024.01.29 ~ 2024.08.09 Okestro </pre>
 <pre align="center"> 2024.08.12 ~         ButfitSeoul </pre>
+<pre align="center"> 2024.01.29 ~ 2024.08.09 Okestro </pre>
+<pre align="center"> 2020.12.28 ~ 2024.01.26 Tmax AI </pre>
+
 
 <br>
 <!--
